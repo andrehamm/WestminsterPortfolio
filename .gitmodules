@@ -1,0 +1,3 @@
+[submodule "SkiMath"]
+	path = SkiMath
+	url = https://github.com/andrehamm/ski_math.git
