@@ -13,13 +13,12 @@ This was a great project. It gave me the opportunity to follow the Agile softwar
 This Computer Networks projecy satisfied all of the computer learning goals. As a class, we came up with a chat server protocol, and implemented it in small groups. We had to decide on how servers would communicate, how a user would be added to the chat room, how they would exit, how they would communicate with one another, etc. At the end of the assignment, we all ran the chat servers we had created and attempted to communicate with one another. The program was written in Java, and I worked with one other partner to implement the protocol. The assignemt required a system level understanding of the computer, an understanding of software design, collaboration with a team, and effective problem solving skills. It was also a very satisfying project because at the end you saw your software working in a live environment!
 
 ### P8 - Ghostbusters
-creativity 
-develeop effective problem solving skills
-This was the last assignment for a semester long project in an Artificial Intelligence class. Each assignment in the project built upon the last and developed your understanding concept in AI. The premise of the project 
+This was the last assignment for a semester long project in an Artificial Intelligence class. Each assignment in the project built upon the last and developed your understanding in a concept in AI. The premise of the project was developing an intelligent pacman player. We started by specifically coding the decisions a pacman player should make, and eventually we enabled it to learn and make decisions based upon bayesian probabilities! This project took a lot of creativity, one of the college wide learning goals. To properly implement each of the assignments, we needed a developed knowledge of programming and good problem solving skills. This was one of my favorite projects and it helped spark my interest in machine learning and artificial intelligence. 
 
 ### Cache Lab 
-Attain a system level understanding of the computer 
+This was an assignment for the computer architecture class I took in the Spring 2019. This lab helped us understand how caches work, by coding a two level memory system. I worked with a partner to run a couple of experiments and improve our system level understanding of the computer, one of the computer science learning goals. 
 
 ### Text Summarizer 
 critical thinking
 develeop effective problem solving skills
+This was my senior project. It was part research project, part software project that implemented 
