@@ -19,6 +19,4 @@ This was the last assignment for a semester long project in an Artificial Intell
 This was an assignment for the computer architecture class I took in the Spring 2019. This lab helped us understand how caches work, by coding a two level memory system. I worked with a partner to run a couple of experiments and improve our system level understanding of the computer, one of the computer science learning goals. 
 
 ### Text Summarizer 
-critical thinking
-develeop effective problem solving skills
-This was my senior project. It was part research project, part software project that implemented 
+This was my senior project. It was part research project, part software project that used an unsupervised network that generated sentence embeddings to summarize transcripts of telephone calls. The final product was a command line tool that loaded a couple of models and summarized transcripts or user input. This project took a lot of critical thinking, one of the college wide learning goals. Although I did not achieve everything I set out to do, I had to do a lot of problem solving. 
